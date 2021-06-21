@@ -10,5 +10,6 @@ Contacto:
  - email:    caedlozano@hotmail.com
  - linkedin: https://www.linkedin.com/in/carlos-edo-lozano/
  - twitrer:  https://twitter.com/CharlexSir
+https://github.com/SirCharlex/SirCharlex/blob/main/Scrum.png?raw=true
 
 
