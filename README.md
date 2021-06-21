@@ -6,10 +6,11 @@ Desde 2017 hice un giro total en mi carrera, aunque me había desarrollado en el
 
 
 
+
 Contacto:
  - email:    caedlozano@hotmail.com
  - linkedin: https://www.linkedin.com/in/carlos-edo-lozano/
  - twitrer:  https://twitter.com/CharlexSir
-https://github.com/SirCharlex/SirCharlex/blob/main/Scrum.png?raw=true
+![image](https://user-images.githubusercontent.com/77077762/122797930-9eb3d100-d285-11eb-9f3b-66970d1b054b.png)
 
 
