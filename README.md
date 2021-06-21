@@ -5,12 +5,12 @@ Soy Carlos Eduardo, Full Stack Developer (backend & frontend), utilizo la metodo
 Desde 2017 hice un giro total en mi carrera, aunque me había desarrollado en el mundo del análisis de información comercial, incluso llegando a posiciones gerenciales, siempre fui muy curioso de la tecnología, logrando aprender por mi cuenta VBA (visual basic for applications) e incluso enseñando a otros Excel avanzado. Luego vi la oportunidad en "Henry" y aprendi a ser FullStack manejando tecnologías como: JavaScrip, React, Redux, Sequelize, PostgresSql, express, Html, CSS,  entre otras.
 
 
-
-
 Contacto:
  - email:    caedlozano@hotmail.com
  - linkedin: https://www.linkedin.com/in/carlos-edo-lozano/
  - twitrer:  https://twitter.com/CharlexSir
-![image](https://user-images.githubusercontent.com/77077762/122797930-9eb3d100-d285-11eb-9f3b-66970d1b054b.png)
+
+
+![image](https://user-images.githubusercontent.com/77077762/122799711-abd1bf80-d287-11eb-90a9-467e89f8f5dc.png)
 
 
