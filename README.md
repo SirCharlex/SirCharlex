@@ -11,4 +11,6 @@ Contacto:
  - twitrer:  https://twitter.com/CharlexSir
 
 
+![image](https://user-images.githubusercontent.com/77077762/122810330-da09cc00-d294-11eb-846a-bf444d8084b2.png)
+![redux](https://user-images.githubusercontent.com/77077762/122810392-edb53280-d294-11eb-99ad-666ff3062f44.png)
 
