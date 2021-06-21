@@ -15,7 +15,6 @@ Contacto:
 ![image](https://user-images.githubusercontent.com/77077762/122805685-0589b800-d28f-11eb-8692-840db5f0c8c0.png)
 ![image](https://user-images.githubusercontent.com/77077762/122805704-0b7f9900-d28f-11eb-8384-13130e97430e.png)
 ![image](https://user-images.githubusercontent.com/77077762/122805735-15090100-d28f-11eb-89e7-8a9ed22d3054.png)
-![image](https://user-images.githubusercontent.com/77077762/122805760-1c300f00-d28f-11eb-96a6-8e7491b2e1f5.png)
 ![image](https://user-images.githubusercontent.com/77077762/122805780-23571d00-d28f-11eb-8e4f-86e4de165c3e.png)
 
 
