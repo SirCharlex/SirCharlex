@@ -10,6 +10,6 @@ Contacto:
  - linkedin: https://www.linkedin.com/in/carlos-edo-lozano/
  - twitter:  https://twitter.com/CharlexSir
 
-![image](https://user-images.githubusercontent.com/77077762/123562506-bc48d500-d774-11eb-8321-78fbe8287f3c.png)
+![image](https://user-images.githubusercontent.com/77077762/123562557-029e3400-d775-11eb-902c-1dc4835e9f5c.png)
 
 
